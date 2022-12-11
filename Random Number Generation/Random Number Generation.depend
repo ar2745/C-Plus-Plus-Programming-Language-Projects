@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1650893585 source:c:\users\ar274\desktop\codeblock projects\section 18\random number generation\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
