@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650968529 source:c:\users\ar274\desktop\codeblock projects\section 22\current date and time\main.cpp
+	<iostream>
+	<ctime>
+
